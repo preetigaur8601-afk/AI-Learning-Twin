@@ -1,0 +1,25 @@
+Date: 2026-06-16
+Topic: pps
+Hours: 2.0
+Difficulty: Easy
+----------------------
+Date: 2026-06-16
+Topic: math
+Hours: 3.5
+Difficulty: Hard
+----------------------
+Date: 2026-06-16
+Topic: english
+Hours: 3.5
+Difficulty: Hard
+----------------------
+Date: 2026-06-16
+Topic: pps
+Hours: 0.5
+Difficulty: Easy
+----------------------
+Date: 2026-06-16
+Topic: tafl
+Hours: 0.5
+Difficulty: Easy
+----------------------
